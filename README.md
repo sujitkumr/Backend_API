@@ -25,7 +25,10 @@ To set up the project locally, clone the repository, install dependencies, confi
 
 # API Endpoints:
 
+
 POST /signup: Register a new user.
+![signUP](https://github.com/sujitkumr/Backend_API/assets/110280440/bf1d9e77-ee8f-4cbb-85cd-c88a8ed38f6f)
+
 POST /signin: Authenticate a user.
 POST /forget-password: Send a password reset link to the user's email.
 POST /reset-password: Reset the user's password using a valid reset token.
