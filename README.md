@@ -1,3 +1,3 @@
 # Node.js Backend API
 
-This is a Node.js backend API project that includes features like user registration, authentication, password reset, and more.
+Node Backend API is a Node.js-based server-side application designed to handle user registration, authentication, and password management. It provides a set of RESTful endpoints for creating and managing user accounts, allowing clients to securely sign up, sign in, and request password resets.
